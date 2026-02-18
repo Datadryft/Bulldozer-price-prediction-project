@@ -1,0 +1,38 @@
+# Large data files
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files (can be large)
+*.model
+*.joblib
+data/
+env/
